@@ -1,6 +1,6 @@
-<h1>Heyo Amigos!</h1>
+<h1>Hola Amigos!</h1>
 
-- 💜 Heyo Amigos!I'm Yashika Singh.
+- 💜 I'm Yashika Singh.
 - 👀 Sheesh!Newbie as of now.
 - 🌱 I’m currently learning c language.
 - 🛸 You can reach me through my twitter handle: Yukii_26
