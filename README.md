@@ -2,7 +2,7 @@
 
 - 💜 I'm Yashika Singh.
 - 👀 Sheesh!Newbie as of now.
-- 🌱 I’m currently learning c language.
+- 🌱 I’m currently exploring Web Development.
 - 🛸 You can reach me through my twitter handle: Yukii_26
 - 🎀 Pronouns: She/Her
 <!---
